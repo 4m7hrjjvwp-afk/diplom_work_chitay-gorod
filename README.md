@@ -13,7 +13,6 @@ pytest
 selenium
 requests
 allure
-config
 
 Структура:
 ./test/api - api-тесты
